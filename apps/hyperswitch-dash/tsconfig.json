@@ -7,7 +7,6 @@
       }
     ],
     "isolatedModules": true,
-    "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true
   },
   "include": [

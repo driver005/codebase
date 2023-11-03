@@ -1,0 +1,25 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Default",
+    "compilerOptions": {
+        "declaration": true,
+        "sourceMap": false,
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "strict": true,
+        "noFallthroughCasesInSwitch": true,
+        "jsx": "react-jsx",
+        "esModuleInterop": false,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "downlevelIteration": true,
+        "allowJs": true,
+        "composite": true,
+        "declarationMap": false,
+        "noImplicitAny": false,
+        "noImplicitReturns": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
